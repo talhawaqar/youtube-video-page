@@ -35,7 +35,7 @@ Just clone it and run index.html
 
 👤 **Author1**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
+- Github: [@githubhandle](https://github.com/talhawaqar)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
 
